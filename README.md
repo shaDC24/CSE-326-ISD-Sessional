@@ -148,4 +148,6 @@ For questions or feedback, please contact any team member:
 
 ---
 
-**Let's build the future of online learning together!** 🚀
+**Reviews from teachers:**
+
+https://docs.google.com/document/d/16vnpR9aWzHMmrZ7JwXgkkiyvjfz4HkAmd0w9_uStNPg/edit?usp=sharing
