@@ -102,22 +102,27 @@ This project is part of **CSE 326: Information System Design Sessional** and imp
 
 This repository contains the following design documents:
 
-1. **BPMN Diagram** (`Final_BPMN.pdf`)
+1. **BPMN Diagram** (`Final_BPMN.pdf`) (Presented by 2105147)
    - Complete business process flow
    - Detailed workflow for all subsystems
    - Actor interactions and system processes
 
-2. **Class Diagram** (`Final Class Diagram Merged.pdf`)
+2. **Class Diagram** (`Final Class Diagram Merged.pdf`) (Presented by  )
    - System architecture and relationships
    - Class structures and attributes
    - Database schema design
 
-3. **Use Case Diagram** (`Final Use Case Diagram-1.pdf`)
+3. **Use Case Diagram** (`Final Use Case Diagram-1.pdf`) (Presented by  )
    - User interactions and system functionalities
    - Actor relationships
    - Extended and included use cases
 
-4. **Project Presentation** (`ISD_326-Sessional.pdf`)
+4. **MockUI Presentation** (`Final_MockUI_with_prototype.txt`)   (Presented by  2105123)
+   - User interactions and system functionalities
+   - The link contains our figma site
+
+
+5. **Project Presentation** (`ISD_326-Sessional.pdf`)
    - Project overview and features
    - Team information
    - System highlights
